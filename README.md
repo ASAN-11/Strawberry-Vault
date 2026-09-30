@@ -1,4 +1,4 @@
-# berry-Vault 🍓
+# Strawberry-Vault 🍓
 
 🚧 **Status: Under Development**
 
