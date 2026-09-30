@@ -1,8 +1,8 @@
-# Strawberry-Vault 🍓
+# Strawberry Vault 🍓
 
 🚧 **Status: Under Development**
 
-**berry-Vault** is a curated 3D asset and model library designed to provide ready-to-use **3D models, objects, and visual assets** for creative and development projects.
+**Strawberry-Vault** is a curated 3D asset and model library designed to provide ready-to-use **3D models, objects, and visual assets** for creative and development projects.
 
 ## ✨ About
 
@@ -28,7 +28,7 @@ Use the 3D assets and models from this awesome library in your own projects — 
 
 ## 🚧 Development
 
-berry-Vault is currently under development. The collection, categories, formats, and available assets will continue to expand.
+Strawberry-Vault is currently under development. The collection, categories, formats, and available assets will continue to expand.
 
 ## 💡 Vision
 
@@ -36,4 +36,4 @@ Build a simple, accessible vault of useful 3D assets that developers and creator
 
 ---
 
-**berry-Vault** — *A little vault of 3D assets for big ideas.* 🍓
+**Strawberry-Vault** — *A little vault of 3D assets for big ideas.* 🍓
